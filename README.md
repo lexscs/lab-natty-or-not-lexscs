@@ -54,11 +54,3 @@ Ao unir intuição, empatia e propósito humano com ferramentas de IA, é possí
 Abaixo o link para o site da amazon, também fiz uma versão em inglês, utilizando o google tradutor.
 
 https://www.amazon.com.br/dp/B0FKV6THPL
-
-
-
-
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
